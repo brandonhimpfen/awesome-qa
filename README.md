@@ -48,6 +48,7 @@ Quality Assurance is crucial for delivering high-quality, stable, and secure sof
 ## Automated Testing
 
 - [Selenium](https://www.selenium.dev/) – Web automation across multiple browsers.
+- [agent-qa](https://github.com/vostride/agent-qa) – Self-improving QA agent for natural-language web and mobile tests with run memory, UI-change adaptation, and regression detection.
 - [Cypress](https://www.cypress.io/) – Modern JavaScript-based E2E testing framework.
 - [Playwright](https://playwright.dev/) – Browser automation tool by Microsoft.
 - [Appium](https://appium.io/) – Cross-platform mobile test automation.
