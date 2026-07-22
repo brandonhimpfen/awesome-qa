@@ -51,6 +51,7 @@ Quality Assurance is crucial for delivering high-quality, stable, and secure sof
 - [Cypress](https://www.cypress.io/) – Modern JavaScript-based E2E testing framework.
 - [Playwright](https://playwright.dev/) – Browser automation tool by Microsoft.
 - [Appium](https://appium.io/) – Cross-platform mobile test automation.
+- [Kane CLI](https://www.testmuai.com/kane-cli/) – Describe a QA flow in natural language, run it in a real browser, and share a link to the evidence.
 
 ## Bug Tracking
 
