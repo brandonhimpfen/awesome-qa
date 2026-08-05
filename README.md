@@ -32,6 +32,7 @@ Quality Assurance is crucial for delivering high-quality, stable, and secure sof
 - [Software Testing Help](https://www.softwaretestinghelp.com/) – Tutorials and guidance for various testing approaches.
 - [Ministry of Testing](https://www.ministryoftesting.com/) – Community and resources for all things QA and testing.
 - [TestGuild](https://testguild.com/) – Webinars, podcasts, and articles on test automation and QA.
+- [QAPractices](https://qapractices.com/) – Free curated QA resource hub with test cases, checklists, templates, AI prompts and guides for API, web, mobile, security, accessibility and performance testing.
 
 ## QA Tools
 
