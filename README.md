@@ -32,6 +32,7 @@ Quality Assurance is crucial for delivering high-quality, stable, and secure sof
 - [Software Testing Help](https://www.softwaretestinghelp.com/) – Tutorials and guidance for various testing approaches.
 - [Ministry of Testing](https://www.ministryoftesting.com/) – Community and resources for all things QA and testing.
 - [TestGuild](https://testguild.com/) – Webinars, podcasts, and articles on test automation and QA.
+- [Sample Files](https://mzeeshan.me/tools/sample-files) - Free downloadable test files across video, audio and document for testing uploads, parsers, and file handling.
 
 ## QA Tools
 
