@@ -1,4 +1,4 @@
-# Awesome QA [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome QA [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -105,9 +105,9 @@ Quality Assurance is crucial for delivering high-quality, stable, and secure sof
 
 ## Related Awesome Lists
 
-- **[Awesome Testing](https://github.com/awesomelistsio/awesome-testing)** – Tools and frameworks for all types of testing.
-- **[Awesome Test Automation](https://github.com/awesomelistsio/awesome-test-automation)** – Curated list focused on test automation tools.
-- **[Awesome CI](https://github.com/awesomelistsio/awesome-ci)** – Continuous Integration tools and platforms.
+- **[Awesome Testing](https://github.com/brandonhimpfen/awesome-testing)** – Tools and frameworks for all types of testing.
+- **[Awesome Test Automation](https://github.com/brandonhimpfen/awesome-test-automation)** – Curated list focused on test automation tools.
+- **[Awesome CI](https://github.com/brandonhimpfen/awesome-ci)** – Continuous Integration tools and platforms.
   
 ## Contribute
 
